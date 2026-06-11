@@ -1,0 +1,15 @@
+team_name: "Sirisha Lisa"
+primary_contact_name: "Sirisha Gowda"
+github_repo: "https://github.com/Sirishagowda2025/redrob-candidate-ranker"
+methodology_summary: |
+  Hybrid semantic + structured scoring system. Three-stage pipeline: 
+  (1) JD-semantic skill scoring using keyword expansion across career descriptions
+  (not just skills section — finds implicit expertise); (2) Career-fit scoring on
+  YOE, company type (product vs consulting), title relevance, and production 
+  deployment signals in descriptions; (3) Behavioral signal composite (23 signals)
+  used as an availability multiplier — a ghost candidate with perfect skills scores 
+  near-zero. Honeypot detection via timeline consistency checks and profile 
+  impossibility analysis. Zero external API calls; runs in <5min on CPU.
+ai_tools_declared:
+  - Claude
+compute_environment: "Ubuntu 22.04, Python 3.11, CPU-only, ~4GB RAM"
