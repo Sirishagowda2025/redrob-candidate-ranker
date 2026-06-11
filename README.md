@@ -1,7 +1,7 @@
 # Redrob Intelligent Candidate Ranking System
 
 **Hackathon:** Redrob Data & AI Challenge  
-**Author:** Sirisha Gowda | [Sirishagowda2025](https://github.com/Sirishagowda2025)
+**Author:** Sirisha D | [Sirishagowda2025](https://github.com/Sirishagowda2025)
 
 ## Quick Start
 
